@@ -1,0 +1,70 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'fig1.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{468bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.34615385)%
+    \put(0.51088916,0.14440847){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$U_\infty$}}}%
+    \put(0.14941172,0.23271869){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{${\color{blue}-\delta u}$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{fig1.pdf}}%
+    \put(0.51988344,0.08748422){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{${\color{blue}-\delta u(r)}$}}}%
+    \put(-0.00044637,0.01423372){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{(a) Actuator disk}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{fig1.pdf}}%
+    \put(0.36778845,0.24479245){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$x$}}}%
+    \put(0.27604164,0.27924662){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{${\color{red}-\eta_0}$}}}%
+    \put(0.14329997,0.09569458){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$r$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{fig1.pdf}}%
+    \put(0.49949119,0.01423372){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{(b) Filtered actuator disk}}}%
+    \put(0.86772602,0.24479245){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$x$}}}%
+    \put(0.81444022,0.27924662){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{${\color{red}-\eta(r)}$}}}%
+    \put(0.64966434,0.10211713){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$r$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{fig1.pdf}}%
+    \put(0.01088797,0.14440859){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$U_\infty$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{fig1.pdf}}%
+  \end{picture}%
+\endgroup%

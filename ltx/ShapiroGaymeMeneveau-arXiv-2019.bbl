@@ -1,0 +1,122 @@
+\begin{thebibliography}{10}
+
+\bibitem{Vijayakumar2016a}
+Vijayakumar G, Brasseur J, Lavely AW, Jayaraman B, Craven B. Interaction of
+  Atmospheric Turbulence with Blade Boundary Layer Dynamics on a 5MW Wind
+  Turbine using Blade-boundary-layer-resolved {CFD} with hybrid {URANS}-{LES}.
+  In:  34th Wind Energy Symposium, AIAA SciTech Forum; 2016: 521.
+   \href {http://www.doi.org/10.2514/6.2016-0521} {doi: 10.2514/6.2016-0521}
+
+\bibitem{Sorensen2002a}
+S{\o}rensen JN, Shen WZ. Numerical Modeling of Wind Turbine Wakes. {\it J.
+  Fluids Engng.} 2002\string; 124(2)\string: 393.
+ \href {http://www.doi.org/10.1115/1.1471361} {doi: 10.1115/1.1471361}
+
+\bibitem{Martinez2018a}
+Mart\'{i}nez-Tossas LA, Churchfield MJ, Yilmaz AE, et al. Comparison of four
+  large-eddy simulation research codes and effects of model coefficient and
+  inflow turbulence in actuator-line-based wind turbine modeling. {\it J.
+  Renew. Sust. Energy} 2018\string; 10(3)\string: 033301.
+ \href {http://www.doi.org/10.1063/1.5004710} {doi: 10.1063/1.5004710}
+
+\bibitem{Burton2011a}
+Burton T, Jenkins N, Sharpe D, Bossanyi E. {\it Wind Energy Handbook}.
+ John Wiley \& Sons.
+ 2011.
+
+\bibitem{Allaerts2018a}
+Allaerts D, Meyers J. Gravity Waves and Wind-Farm Efficiency in Neutral and
+  Stable Conditions. {\it Boundary-Layer Meteorology} 2018\string;
+  166(2)\string: 269--299.
+ \href {http://www.doi.org/10.1007/s10546-017-0307-5} {doi:
+  10.1007/s10546-017-0307-5}
+
+\bibitem{Goit2015a}
+Goit JP, Meyers J. Optimal control of energy extraction in wind-farm boundary
+  layers. {\it J. Fluid Mech.} 2015\string; 768\string: 5--50.
+   \href {http://www.doi.org/10.1017/jfm.2015.70} {doi:
+    10.1017/jfm.2015.70}
+
+\bibitem{Iungo2017a}
+Iungo GV, Santhanagopalan V, Ciri U, et al. Parabolic {RANS} solver for
+  low-computational-cost simulations of wind turbine wakes. {\it Wind Energy}
+  2017\string; 21(3)\string: 184--197.
+ \href {http://www.doi.org/10.1002/we.2154} {doi: 10.1002/we.2154}
+
+\bibitem{Stevens2018a}
+Stevens RJAM, Mart{\'{\i}}nez LA, Meneveau C. Comparison of wind farm large
+  eddy simulations using actuator disk and actuator line models with wind
+  tunnel experiments. {\it Renew. Energy} 2018\string; 116(Part A)\string: 470
+  - 478.
+ \href {http://www.doi.org/https://doi.org/10.1016/j.renene.2017.08.072} {doi:
+  https://doi.org/10.1016/j.renene.2017.08.072}
+
+\bibitem{Lignarolo2016a}
+Lignarolo LE, Mehta D, Stevens RJ, et al. Validation of four \{LES\} and a
+  vortex model against stereo-PIV measurements in the near wake of an actuator
+  disc and a wind turbine. {\it Renew. Energy} 2016\string; 94\string:
+  510--523.
+ \href {http://www.doi.org/10.1016/j.renene.2016.03.070} {doi:
+  10.1016/j.renene.2016.03.070}
+
+\bibitem{Calaf2010a}
+Calaf M, Meneveau C, Meyers J. Large eddy simulation study of fully developed
+  wind-turbine array boundary layers. {\it Phys. Fluids} 2010\string;
+  22(1)\string: 015110.
+ \href {http://www.doi.org/10.1063/1.3291077} {doi: 10.1063/1.3291077}
+
+\bibitem{Meyers2010a}
+Meyers J, Meneveau C. Large Eddy Simulations of Large Wind-Turbine Arrays in
+  the Atmospheric Boundary Layer. In: 488th AIAA Aerospace Sciences Meeting;
+  2010\string: 827.
+   \href {http://www.doi.org/10.2514/6.2010-827} {doi: 10.2514/6.2010-827}
+
+\bibitem{Martinez2017b}
+Mart{\'{\i}}nez-Tossas LA, Churchfield MJ, Meneveau C. Optimal smoothing length
+  scale for actuator line models of wind turbine blades based on Gaussian body
+  force distribution. {\it Wind Energy} 2017\string; 20(6)\string: 1083--1096.
+ \href {http://www.doi.org/10.1002/we.2081} {doi: 10.1002/we.2081}
+
+\bibitem{Martinez2019a}
+Mart\'{i}nez-Tossas LA, Meneveau C. Filtered lifting line theory and
+  application to the actuator line model. {\it J. Fluid Mech.}
+  2019\string; 863\string: 269--292.
+ \href {http://www.doi.org/10.1017/jfm.2018.994} {doi: 10.1017/jfm.2018.994}
+
+
+\bibitem{Munters2017a}
+Munters W, Meyers J. An optimal control framework for dynamic induction control
+  of wind farms and their interaction with the atmospheric boundary layer. {\it
+  Phil. Trans. Royal Soc. A} 2017\string; 375\string:
+  20160100.
+ \href {http://www.doi.org/10.1098/rsta.2016.0100} {doi: 10.1098/rsta.2016.0100}
+
+\bibitem{vanKuik2016a}
+{van Kuik} GAM, Lignarolo LEM. Potential flow solutions for energy extracting
+  actuator disc flows. {\it Wind Energy} 2016\string; 19\string: 1391--1406.
+ \href {http://www.doi.org/10.1002/we.1902} {doi: 10.1002/we.1902}
+
+\bibitem{Pope2000a}
+Pope S. {\it Turbulent Flows}.
+ Oxford.
+ 2000.
+
+\bibitem{Milne-Thomson1973a}
+Milne-Thomson LM. {\it Theoretical Aerodynamics}.
+ Dover.
+ 1973.
+
+\bibitem{Gibson1974a}
+Gibson IS. On the velocity unduced by a semi-infinite vortex cylinder: with
+  extension to the short solenoid. {\it The Aeronautical Journal} 1974\string;
+  78(762)\string: 262--268.
+ \href {http://www.doi.org/10.1017/S0001924000036903} {doi: 10.1017/S0001924000036903}
+
+\bibitem{Stevens2014a}
+Stevens RJ, Graham J, Meneveau C. A concurrent precursor inflow method for
+  Large Eddy Simulations and applications to finite length wind farms. {\it
+  Renew. Energy} 2014\string; 68\string: 46--50.
+ \href {http://www.doi.org/10.1016/j.renene.2014.01.024} {doi:
+  10.1016/j.renene.2014.01.024}
+
+\end{thebibliography}
